@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2026 Drannk (https://codepen.io/editor/Drannk/pen/019f425b-4c50-7cb3-8fe2-d5454952b573)
+Copyright (c) 2026 Drannk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
